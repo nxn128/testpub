@@ -1,0 +1,22 @@
+{
+  "name": "@nxn128/testpub",
+  "version": "1.0.0",
+  "description": "test pub",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxn128/testpub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxn128/testpub/issues"
+  },
+  "homepage": "https://github.com/nxn128/testpub#readme",
+  "publishConfig": {
+    "@nxn128:registry": "https://npm.pkg.github.com"
+  }
+}
